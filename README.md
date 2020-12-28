@@ -13,5 +13,7 @@
 ![QKonn](https://github.com/MihailButnaru/QKonn/blob/main/QKonn.png)
 </center>
 
-
+<center>
 QKonn was created to allow people to create a personalised QR code, QR Contact. Once the required details are completed, the QR code is generated and is ready to be scanned.
+www.qkonn.com
+</center>
