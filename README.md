@@ -2,7 +2,7 @@
 <p align="center">
   <h3 align="center"> QKonn </h3>
   <p align="center">
-    The fastest way to have a QR Contact!
+    The fastest way to create a QR Contact!
   </p>
 </p>
 
